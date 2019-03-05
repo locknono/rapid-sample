@@ -1,0 +1,11 @@
+{
+  "name": "rapid-sampling",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "author": "locknono <guozy0103@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {}
+}
