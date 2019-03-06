@@ -25,7 +25,7 @@ import rapidSampling = require("rapid-sampling");
 const { IFocus, getOriginalEstimates } = rapidSampling;
 
 // estimates:number[]，sampleGroups:Groups    
-// see type annotations blow
+// see type annotations below
 const { estimates, sampleGroups } = IFocus(groups, delta=0.05, c=1);
 ```
 
